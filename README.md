@@ -1,4 +1,4 @@
-{<div align="center">
+<!-- <div align="center">
     <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>ViMusic</h1>
     <p>An Android application for streaming music from YouTube Music</p>
@@ -56,4 +56,4 @@
 ## Disclaimer
 This project and its contents are not affiliated with, funded, authorized, endorsed by, or in any way associated with YouTube, Google LLC or any of its affiliates and subsidiaries.
 
-Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.}
+Any trademark, service mark, trade name, or other intellectual property rights used in this project are owned by the respective owners.-->
